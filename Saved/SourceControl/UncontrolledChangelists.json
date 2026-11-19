@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/2026Wasted/UE/Workshop/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/BlockOut.umap",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/NewMap.umap",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Material/M_Water_Ocean_1.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Material/MI_Water_Pond1.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Material/M_Water_Ocean_1_Inst.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_093DEC9E.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_1EB04AFF.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_54A92899.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_661C1A29.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_96B5A06C.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_ADB30F22.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_E1694B03.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_E7A37B23.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_228A9F74.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_22FEAC91.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_37BF2DCE.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_7685C61E.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_981A39F2.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_B7454807.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Workshop/Level/_GENERATED/admin/Box_CAF4F1A6.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/StarterContent/Materials/M_Water_Ocean_1.uasset",
+				"E:/2026Wasted/UE/Workshop/Content/Building/Materials/MI_Water_Pond1.uasset"
+			]
+		}
+	]
+}
